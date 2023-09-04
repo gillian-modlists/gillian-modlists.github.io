@@ -1,0 +1,128 @@
+site_name: Gillian's GTA IV Modding Guide
+site_url: https://gillian-guide.github.io/
+copyright: Copyright &copy; 2023. This website is not affiliated with Rockstar Games, Rockstar North, or Take-Two Interactive.
+
+plugins:
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      languages:
+        - build: true
+          default: true
+          locale: en
+          name: English
+        - build: true
+          default: false
+          locale: ru
+          name: Русский
+      reconfigure_material: true
+      reconfigure_search: true
+  - search
+  - glightbox
+  - social
+        
+theme:
+  name: material
+  palette:
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+  logo: assets/logo-horizontal.png
+  favicon: assets/iv-logo-favicon.png
+  features:
+    - toc.integrate
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - content.tabs.link
+    - content.tooltips
+    - content.code.copy
+    - content.code.annotate 
+    - search.share
+
+markdown_extensions:
+  - toc:
+      permalink: "#"
+  - md_in_html
+  - admonition
+  - tables
+  - attr_list
+  - def_list
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.snippets
+  - pymdownx.keys
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+
+
+nav:
+  - Introduction:
+    - "index.md"
+    - "credits.md"
+    - "troubleshooting.md"
+    - "contact-me.md"
+  - "drag-and-drop-archive.md"
+  - "optimization.md"
+  - "additional-setup.md"
+  - "downgrading.md"
+  - "mod-dependencies.md"
+  - Essential Modding:
+    - "essential-modding/index.md"
+    - "essential-modding/zolikapatch.md"
+    - "essential-modding/fusionfix.md"
+    - "essential-modding/shader-fixes.md"
+  - Extras:
+    - "extras/index.md"
+    - "multiplayer.md"
+    - "extras/trainers.md"
+    - "extras/launcher.md"
+    - "extras/openiv.md"
+    - "extras/modloading.md"
+    - "extras/mods.md"
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/gillian-guide/gillian-guide.github.io/issues
+      name: If you have concerns about the page, post them on the GitHub issues page.
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/zwmsQqExbQ
+      name: My Discord server.
+  analytics:
+    provider: google
+    property: G-RSQFR3F839
+  consent:
+    title: Cookie consent
+    description: >- 
+      I use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of my guide and whether users
+      find what they're searching for. With your consent, you're helping me to
+      make my guide better.
