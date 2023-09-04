@@ -30,6 +30,8 @@ theme:
   favicon: assets/logo-favicon.png
   features:
     - toc.integrate
+    - navigation.footer
+    - navigation.instant
     - navigation.expand
     - navigation.indexes
     - navigation.top
@@ -72,7 +74,6 @@ markdown_extensions:
 nav:
     - "index.md"
     - "credits.md"
-    - "troubleshooting.md"
     - "contact-me.md"
 
 extra:
