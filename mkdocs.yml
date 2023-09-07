@@ -1,6 +1,6 @@
 site_name: Gillian's Modlists
 site_url: https://gillian-modlists.github.io/
-copyright: Copyright &copy; 2023.
+copyright: Copyright &copy; 2023. This guide is not affiliated with any company or organization.
 
 plugins:
   - search
@@ -13,7 +13,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
+      primary: deep purple
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -21,7 +21,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: black
+      primary: deep purple
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
