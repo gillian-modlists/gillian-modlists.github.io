@@ -58,18 +58,22 @@ The copyright screen might seem annoyingly long for many - this mod skips them e
     * [HD Textures](https://www.nexusmods.com/kingdomheartsfinalmix/mods/4)
     !!! info ""
         * [Critical Mix](https://www.nexusmods.com/kingdomheartsfinalmix/mods/93)
+
         A full overhaul with a fast KH2-style combat system. Revamps Sora's combos, keyblades, accessories, abilities, and much more.
 === "Kingdom Hearts Re: Chain of Memories"
     * [HD Textures](https://www.nexusmods.com/kingdomheartsrechainofmemories/mods/2)
     !!! info ""
         * [Final Mix Heartless Colors](https://www.nexusmods.com/kingdomheartsrechainofmemories/mods/6)
+
         Replaces Heartless colors to match with the Final Mix releases the rest of the collection has.
     !!! info ""
         * [Remastered Soundtrack](https://www.nexusmods.com/kingdomheartsrechainofmemories/mods/15)
+
         Replaces soundtrack to match with the remastered versions the rest of the collection has.
 === "Kingdom Hearts II Final Mix"
     !!! warning ""
         * [HD Textures](https://www.nexusmods.com/kingdomhearts2finalmix/mods/17)
+
         Not recommended on a 1080p or lower screen - the fonts get too high resolution, resulting in them looking worse instead.
     * [HD Environments](https://www.nexusmods.com/kingdomhearts2finalmix/mods/63)
     !!! warning ""
@@ -85,4 +89,5 @@ The copyright screen might seem annoyingly long for many - this mod skips them e
     * [Aqua Uncensored](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/5)
     !!! info ""
         * [Ultimate Mix](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/25)
+
         Huge overhaul mod for Birth by Sleep.
