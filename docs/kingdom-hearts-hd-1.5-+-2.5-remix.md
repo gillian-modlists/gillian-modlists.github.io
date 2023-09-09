@@ -16,6 +16,8 @@ Game definitely didn't get the best PC treatment, but thanks to Re:Fined we can 
 
 ## Game Settings { data-search-exclude }
 Game has a limited amount of settings - you only set up the screen/window mode, resolution, framerate lock, VSync, brightness and colorbrind options. Has hard-locked AA. See the [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Kingdom_Hearts_HD_1.5_%2B_2.5_ReMIX#Ultra-widescreen) for ultrawide or square monitor setup.
+!!! note "Anisotropic Filtering"
+    The game uses 4x Anisotropic by default without any way to toggle it. If you don't like that, you can increase it to 8x/16x via Nvidia Control Panel or AMD Adrenalin.
 
 ## Tools { data-search-exclude }
 ### OpenKH Mod Manager { data-search-exclude }
@@ -37,9 +39,6 @@ LuaBackend offers to enable the game with mods scripted in lua. You may not need
 An easy-to-use savefile editor incase you need one. Follow the link in [links](#links) to find it.
 
 ## Essentials { data-search-exclude }
-!!! note "Anisotropic Filtering"
-    The game uses 4x Anisotropic by default without any way to toggle it. If you don't like that, you can increase it to 8x/16x via Nvidia Control Panel or AMD Adrenalin.
-
 ### Kingdom Hearts Re:Fined { data-search-exclude }
 This mod aims to fix problems, crashes, and bugs that are present within the PC Ports of all legacy-class Kingdom Hearts games, aswell as introduce quality-of-life features to the games. See the [repository](https://github.com/TopazTK/KH-ReFined) for instructions, extra information and releases. Install the v4.00 version with OpenKH.
 
