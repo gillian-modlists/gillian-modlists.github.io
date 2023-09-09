@@ -8,6 +8,9 @@ description: Gillian's mod and/or tools list for game.
 ## Personal opinion on the technical state of the game and it's PC version { data-search-exclude }
 Contents
 
+## Game Settings { data-search-exclude }
+Notes on settings
+
 ## Tools { data-search-exclude }
 ### Tool 1 { data-search-exclude }
 Description

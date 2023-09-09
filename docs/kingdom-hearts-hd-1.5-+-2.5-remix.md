@@ -14,6 +14,9 @@ description: Gillian's mod and/or tools list for Kingdom Hearts HD 1.5 + 2.5 ReM
 ## Personal opinion on the technical state of the game and it's PC version { data-search-exclude }
 Game definitely didn't get the best PC treatment, but thanks to Re:Fined we can have a very much bearable experience here. In some ways, even superior to the original one. Other than that, there's a bunch of HD mods, aswell as overhaul ones.
 
+## Game Settings { data-search-exclude }
+Game has a limited amount of settings - you only set up the screen/window mode, resolution, framerate lock, VSync, brightness and colorbrind options. Has hard-locked AA. See the [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Kingdom_Hearts_HD_1.5_%2B_2.5_ReMIX#Ultra-widescreen) for ultrawide or square monitor setup.
+
 ## Tools { data-search-exclude }
 ### OpenKH Mod Manager { data-search-exclude }
 OpenKH offers a lot of tools, but the one you'd mainly want to use as a regular user is the Mod Manager, which allows to patch a good variety of mods aswell as set up their priority. Also has a modloader which reduces build time.
@@ -34,6 +37,9 @@ LuaBackend offers to enable the game with mods scripted in lua. You may not need
 An easy-to-use savefile editor incase you need one. Follow the link in [links](#links) to find it.
 
 ## Essentials { data-search-exclude }
+!!! note "Anisotropic Filtering"
+    The game uses 4x Anisotropic by default without any way to toggle it. If you don't like that, you can increase it to 8x/16x via Nvidia Control Panel or AMD Adrenalin.
+
 ### Kingdom Hearts Re:Fined { data-search-exclude }
 This mod aims to fix problems, crashes, and bugs that are present within the PC Ports of all legacy-class Kingdom Hearts games, aswell as introduce quality-of-life features to the games. Follow the link in [links](#links) to find it. Install the v4.00 version additionaly with OpenKH.
 ### Copyright Screen Skip { data-search-exclude }
