@@ -29,7 +29,6 @@ theme:
   logo: assets/logo-horizontal.png
   favicon: assets/logo-favicon.png
   features:
-    - toc.integrate
     - navigation.footer
     - navigation.instant
     - navigation.expand
@@ -72,9 +71,10 @@ markdown_extensions:
 
 
 nav:
-    - "index.md"
-    - "credits.md"
-    - "contact-me.md"
+    Introduction:
+      - "index.md"
+      - "credits.md"
+      - "contact-me.md"
 
 extra:
   social:
