@@ -29,7 +29,6 @@ theme:
   logo: assets/logo-horizontal.png
   favicon: assets/logo-favicon.png
   features:
-    - navigation.footer
     - navigation.instant
     - navigation.expand
     - navigation.indexes
@@ -68,13 +67,6 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
-
-
-nav:
-  - Introduction:
-    - "index.md"
-    - "credits.md"
-    - "contact-me.md"
 
 extra:
   social:
