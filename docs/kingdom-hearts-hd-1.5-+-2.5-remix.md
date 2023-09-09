@@ -19,25 +19,6 @@ Game has a limited amount of settings - you only set up the screen/window mode, 
 !!! note "Anisotropic Filtering"
     The game uses 4x Anisotropic by default without any way to toggle it. If you don't like that, you can increase it to 8x/16x via Nvidia Control Panel or AMD Adrenalin.
 
-## Tools { data-search-exclude }
-### OpenKH Mod Manager { data-search-exclude }
-OpenKH offers a lot of tools, but the one you'd mainly want to use as a regular user is the Mod Manager, which allows to patch a good variety of mods aswell as set up their priority. Also has a modloader which reduces build time.
-
-???+ note "Installation"
-    - Go to the latest release of [OpenKH](https://github.com/OpenKH/OpenKh/releases), download it and unpack in any desired folder (not the game folder directly).
-    - Open :material-file:`OpenKh.Tools.ModsManager.exe`. Go through the instructions, install Panacea and unpack the desired game.
-???+ tip "Usage"
-    - To install mods, click `Mods` -> `Install a new mod...` (or press the plus to the right of the list) and from there either pick a downloaded mod or leave the name for a repository on GitHub.
-    - Change priority as desired.
-### LuaBackend { data-search-exclude }
-LuaBackend offers to enable the game with mods scripted in lua. You may not need it.
-
-??? note "Installation and Usage"
-    - Go to the latest release of [LuaBackend](https://github.com/Sirius902/LuaBackend/releases), download it and unpack in the game folder (may not be compatible with Panacea).
-    - To install mods, extract their .lua file to `%USERPROFILE%\Documents\KINGDOM HEARTS HD 1.5+2.5 ReMIX\scripts\kh1\` (or `\kh2`, `\khbbs` or `\khrecom` according to your game)
-### Kingdom Save Editor { data-search-exclude }
-An easy-to-use savefile editor incase you need one. Follow the link in [links](#links) to find it.
-
 ## Essentials { data-search-exclude }
 ### Kingdom Hearts Re:Fined { data-search-exclude }
 This mod aims to fix problems, crashes, and bugs that are present within the PC Ports of all legacy-class Kingdom Hearts games, aswell as introduce quality-of-life features to the games. See the [repository](https://github.com/TopazTK/KH-ReFined) for instructions, extra information and releases. Install the v4.00 version with OpenKH.
@@ -91,3 +72,22 @@ The copyright screen might seem annoyingly long for many - this mod skips them e
         * [Ultimate Mix](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/25)
 
         Huge overhaul mod for Birth by Sleep.
+
+## Tools { data-search-exclude }
+### OpenKH Mod Manager { data-search-exclude }
+OpenKH offers a lot of tools, but the one you'd mainly want to use as a regular user is the Mod Manager, which allows to patch a good variety of mods aswell as set up their priority. Also has a modloader which reduces build time.
+
+???+ note "Installation"
+    - Go to the latest release of [OpenKH](https://github.com/OpenKH/OpenKh/releases), download it and unpack in any desired folder (not the game folder directly).
+    - Open :material-file:`OpenKh.Tools.ModsManager.exe`. Go through the instructions, install Panacea and unpack the desired game.
+???+ tip "Usage"
+    - To install mods, click `Mods` -> `Install a new mod...` (or press the plus to the right of the list) and from there either pick a downloaded mod or leave the name for a repository on GitHub.
+    - Change priority as desired.
+### LuaBackend { data-search-exclude }
+LuaBackend offers to enable the game with mods scripted in lua. You may not need it.
+
+??? note "Installation and Usage"
+    - Go to the latest release of [LuaBackend](https://github.com/Sirius902/LuaBackend/releases), download it and unpack in the game folder (may not be compatible with Panacea).
+    - To install mods, extract their .lua file to `%USERPROFILE%\Documents\KINGDOM HEARTS HD 1.5+2.5 ReMIX\scripts\kh1\` (or `\kh2`, `\khbbs` or `\khrecom` according to your game)
+### Kingdom Save Editor { data-search-exclude }
+An easy-to-use savefile editor incase you need one. Follow the link in [links](#links) to find it.

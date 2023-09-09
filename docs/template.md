@@ -11,6 +11,13 @@ Contents
 ## Game Settings { data-search-exclude }
 Notes on settings
 
+## Essentials { data-search-exclude }
+### Essential 1 { data-search-exclude }
+Description
+
+## Mods { data-search-exclude }
+* Mod 1
+
 ## Tools { data-search-exclude }
 ### Tool 1 { data-search-exclude }
 Description
@@ -20,10 +27,3 @@ Description
 ???+ tip "Usage"
     - Step 1
     - Step 2
-
-## Essentials { data-search-exclude }
-### Essential 1 { data-search-exclude }
-Description
-
-## Mods { data-search-exclude }
-* Mod 1
