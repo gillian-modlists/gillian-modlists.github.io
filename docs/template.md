@@ -8,8 +8,18 @@ description: Gillian's mod and/or tools list for game.
 ## Personal opinion on the technical state of the game and it's PC version { data-search-exclude }
 Contents
 
-## Placeholder { data-search-exclude }
-!!! warning "Placeholder"
-    - List
-        * Item 1
-        * [Link](index.md)
+## Tools { data-search-exclude }
+### Tool 1 { data-search-exclude }
+Description
+???+ note "Installation"
+    - Step 1
+    - Step 2
+???+ tip "Usage"
+    - Step 1
+    - Step 2
+
+## Essentials { data-search-exclude }
+### Essential 1 { data-search-exclude }
+Description
+
+## Mods { data-search-exclude }
