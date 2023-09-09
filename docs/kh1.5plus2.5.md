@@ -78,5 +78,5 @@ The copyright screen might seem annoyingly long for many - this mod skips them e
     * [Improved Camera](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/1)
     * [Aqua Uncensored](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/5)
     * [Ultimate Mix](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/25)
-      !!! info ""
-          Huge overhaul mod for Birth by Sleep.
+    !!! info ""
+        Huge overhaul mod for Birth by Sleep.
