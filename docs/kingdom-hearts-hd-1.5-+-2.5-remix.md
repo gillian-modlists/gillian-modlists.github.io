@@ -27,9 +27,8 @@ OpenKH offers a lot of tools, but the one you'd mainly want to use as a regular 
 ### LuaBackend { data-search-exclude }
 LuaBackend offers to enable the game with mods scripted in lua. You may not need it.
 
-???+ note "Installation"
-    - Go to the latest release of [LuaBackend](https://github.com/Sirius902/LuaBackend/releases), download it and unpack in the game folder (may not be compatible with Panacea.)
-???+ tip "Usage"
+??? note "Installation and Usage"
+    - Go to the latest release of [LuaBackend](https://github.com/Sirius902/LuaBackend/releases), download it and unpack in the game folder (may not be compatible with Panacea).
     - To install mods, extract their .lua file to `%USERPROFILE%\Documents\KINGDOM HEARTS HD 1.5+2.5 ReMIX\scripts\kh1\` (or `\kh2`, `\khbbs` or `\khrecom` according to your game)
 ### Kingdom Save Editor { data-search-exclude }
 An easy-to-use savefile editor incase you need one. Follow the link in [links](#links) to find it.
