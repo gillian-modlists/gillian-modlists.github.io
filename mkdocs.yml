@@ -71,10 +71,10 @@ markdown_extensions:
 
 
 nav:
-    Introduction:
-      - "index.md"
-      - "credits.md"
-      - "contact-me.md"
+  - Introduction:
+    - "index.md"
+    - "credits.md"
+    - "contact-me.md"
 
 extra:
   social:
