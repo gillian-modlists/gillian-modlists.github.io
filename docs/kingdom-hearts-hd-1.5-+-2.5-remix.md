@@ -11,7 +11,6 @@ description: Gillian's mod and/or tools list for Kingdom Hearts HD 1.5 + 2.5 ReM
 - [KHPCPatchManager](https://github.com/AntonioDePau/KHPCPatchManager) - use OpenKH instead unless you specifically need this tool.
 - [Kingdom Save Editor](https://github.com/Xeeynamo/KingdomSaveEditor)
 
-## Personal opinion on the technical state of the game and it's PC version { data-search-exclude }
 Game definitely didn't get the best PC treatment, but thanks to Re:Fined we can have a very much bearable experience here. In some ways, even superior to the original one. Other than that, there's a bunch of HD mods, aswell as overhaul ones.
 
 ## Game Settings { data-search-exclude }
@@ -24,15 +23,6 @@ Game has a limited amount of settings - you only set up the screen/window mode, 
 This mod aims to fix problems, crashes, and bugs that are present within the PC Ports of all legacy-class Kingdom Hearts games, aswell as introduce quality-of-life features to the games. See the [repository](https://github.com/TopazTK/KH-ReFined) for instructions, extra information and releases. Install the v4.00 version with OpenKH.
 
 [:simple-discord: Re:Fined Discord Server](https://discord.gg/kh-refined){ .md-button .md-button--primary }
-### Copyright Screen Skip { data-search-exclude }
-The copyright screen might seem annoyingly long for many - this mod skips them entirely. This is a LuaBackend mod. Download the version you want:
-
-* [Kingdom Hearts Final Mix](https://www.nexusmods.com/kingdomheartsfinalmix/mods/70)
-* [Kingdom Hearts Re:Chain of Memories](https://www.nexusmods.com/kingdomheartsrechainofmemories/mods/12)
-* [Kingdom Hearts II Final Mix](https://www.nexusmods.com/kingdomhearts2finalmix/mods/128)
-!!! note ""
-    [Quicker Copyright Screen](https://www.nexusmods.com/kingdomhearts2finalmix/mods/93) can be used for KH2 instead.
-* [Kingdom Hearts Birth by Sleep Final Mix](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/22)
 
 ## Mods { data-search-exclude }
 === "Kingdom Hearts Final Mix"
@@ -41,6 +31,7 @@ The copyright screen might seem annoyingly long for many - this mod skips them e
         * [Critical Mix](https://www.nexusmods.com/kingdomheartsfinalmix/mods/93)
 
         A full overhaul with a fast KH2-style combat system. Revamps Sora's combos, keyblades, accessories, abilities, and much more.
+    * [Copyright Screen Skip](https://www.nexusmods.com/kingdomheartsfinalmix/mods/70)
 === "Kingdom Hearts Re: Chain of Memories"
     * [HD Textures](https://www.nexusmods.com/kingdomheartsrechainofmemories/mods/2)
     !!! info ""
@@ -51,6 +42,7 @@ The copyright screen might seem annoyingly long for many - this mod skips them e
         * [Remastered Soundtrack](https://www.nexusmods.com/kingdomheartsrechainofmemories/mods/15)
 
         Replaces soundtrack to match with the remastered versions the rest of the collection has.
+    * [Copyright Screen Skip](https://www.nexusmods.com/kingdomheartsrechainofmemories/mods/12)
 === "Kingdom Hearts II Final Mix"
     !!! warning ""
         * [HD Textures](https://www.nexusmods.com/kingdomhearts2finalmix/mods/17)
@@ -64,6 +56,11 @@ The copyright screen might seem annoyingly long for many - this mod skips them e
     * [High Poly Keyblades](https://www.nexusmods.com/kingdomhearts2finalmix/mods/92)
     * [HD Maps](https://www.nexusmods.com/kingdomhearts2finalmix/mods/60)
     * [Uncensored KH2](https://www.nexusmods.com/kingdomhearts2finalmix/mods/150)
+    
+    !!! note ""
+        [Copyright Screen Skip](https://www.nexusmods.com/kingdomhearts2finalmix/mods/128)
+
+        [Quicker Copyright Screen](https://www.nexusmods.com/kingdomhearts2finalmix/mods/93) can be used instead.
 === "Kingdom Hearts Birth by Sleep Final Mix"
     * [HD Textures](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/3)
     * [Improved Camera](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/1)
@@ -72,6 +69,7 @@ The copyright screen might seem annoyingly long for many - this mod skips them e
         * [Ultimate Mix](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/25)
 
         Huge overhaul mod for Birth by Sleep.
+    * [Copyright Screen Skip](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/22)
 
 ## Tools { data-search-exclude }
 ### OpenKH Mod Manager { data-search-exclude }

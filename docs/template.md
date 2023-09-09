@@ -5,8 +5,7 @@ description: Gillian's mod and/or tools list for game.
 ## Links { data-search-exclude }
 - [PCGamingWiki](link)
 
-## Personal opinion on the technical state of the game and it's PC version { data-search-exclude }
-Contents
+Personal opinion on the state of the game
 
 ## Game Settings { data-search-exclude }
 Notes on settings
