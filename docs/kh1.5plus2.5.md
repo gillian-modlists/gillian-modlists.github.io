@@ -62,17 +62,17 @@ The copyright screen might seem annoyingly long for many - this mod skips them e
     !!! info ""
         Replaces soundtrack to match with the remastered versions the rest of the collection has.
 === "Kingdom Hearts II Final Mix"
-    * [Uncensored KH2](https://www.nexusmods.com/kingdomhearts2finalmix/mods/150)
     * [HD Textures](https://www.nexusmods.com/kingdomhearts2finalmix/mods/17)
     !!! warning ""
         Not recommended on a 1080p or lower screen - the fonts get too high resolution, resulting in them looking worse instead.
     * [HD Environments](https://www.nexusmods.com/kingdomhearts2finalmix/mods/63)
     * [HD Models](https://www.nexusmods.com/kingdomhearts2finalmix/mods/120)
     !!! warning ""
-        Uses textures from the HD Textures mod.
-        May result in corrupted models in some cases.
+        - Uses textures from the HD Textures mod.
+        - May result in corrupted models in some cases.
     * [High Poly Keyblades](https://www.nexusmods.com/kingdomhearts2finalmix/mods/92)
     * [HD Maps](https://www.nexusmods.com/kingdomhearts2finalmix/mods/60)
+    * [Uncensored KH2](https://www.nexusmods.com/kingdomhearts2finalmix/mods/150)
 === "Kingdom Hearts Birth by Sleep Final Mix"
     * [HD Textures](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/3)
     * [Improved Camera](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/1)
