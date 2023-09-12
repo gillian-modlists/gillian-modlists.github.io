@@ -2,7 +2,7 @@ title: Game
 description: Gillian's mod and/or tools list for game.
 
 # Game
-#### Alias
+^Also known as: gaem^
 ## Links { data-search-exclude }
 - [Store Page (store)](link)
 - [PCGamingWiki](link)
