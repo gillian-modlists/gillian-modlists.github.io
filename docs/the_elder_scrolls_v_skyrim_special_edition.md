@@ -8,7 +8,7 @@ Also known as: TES V
 - [Store Page (GOG)](https://af.gog.com/game/the_elder_scrolls_v_skyrim_special_edition)
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/The_Elder_Scrolls_V:_Skyrim_Special_Edition)
 
-The notoriously broken Bethesda release(tm). Thankfully, mods can fix this mess once again. Bless the PC modding community.
+The notoriously broken Bethesda release:material-trademark:. Thankfully, mods can fix this mess once again. Bless the PC modding community.
 
 ## Game Settings { data-search-exclude }
 Use [Bethini Pie](../tools/#bethini-pie) for configuration - it has nice and optimized presets aswell as more options to configure your game.
@@ -65,7 +65,7 @@ Use [Bethini Pie](../tools/#bethini-pie) for configuration - it has nice and opt
 
 !!! info ""
     ### [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620) { data-search-exclude }
-    Fixes the keyboard shortcuts, such as ALT+F4, that the game doesn't work with. Somehow.
+    Fixes the keyboard shortcuts, such as ++alt+f4++, that the game doesn't work with. Somehow.
 
 ## Mods { data-search-exclude }
 * [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343)

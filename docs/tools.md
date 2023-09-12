@@ -5,6 +5,12 @@ description: Gillian's tools list and instructions to use them
 This page lists all the tools separately away from my modlists. The reason for that is due to games sharing tools fairly often. However, don't use this page separately - other games link to the required sections already.
 
 ## General-purpose { data-search-exclude }
+### [Special K](https://special-k.info/) { data-search-exclude }
+A highly multi-purpose tool for debugging and solving many niche issues with PC games. Also has crucial patches for select games, such as [NieR Automata](nier_automata.md). See [this page](https://www.pcgamingwiki.com/wiki/Special_K) for more details.
+
+???+ note "Installation and Usage"
+    Follow the [official installation&usage instructions](https://wiki.special-k.info/SpecialK/Global).
+
 ### [Bethini Pie](https://www.nexusmods.com/site/mods/631) { data-search-exclude }
 Universal, easy-to-use and highly flexible configuration tool for Bethesda games.
 
@@ -21,7 +27,7 @@ Mod Organizer 2 is a feature rich mod manager for Bethesda games that keeps the 
     - After the first launch, you get a usage tutorial. I really don't need to explain a lot here.
 
 ### [OpenKH Mod Manager](https://github.com/OpenKH/OpenKh/) { data-search-exclude }
-OpenKH offers a lot of modding tools for legacy Kingdom Hearts games, but the one you'd mainly want to use as a regular user is the Mod Manager, which allows to patch a good variety of mods aswell as set up their priority. Also has a modloader(Panacea) which reduces build time.
+OpenKH offers a lot of modding tools for legacy [Kingdom Hearts](kingdom_hearts_hd_1.5_plus_2.5_remix.md) games, but the one you'd mainly want to use as a regular user is the Mod Manager, which allows to patch a good variety of mods aswell as set up their priority. Also has a modloader(Panacea) which reduces build time.
 
 ???+ note "Installation"
     - Go to the latest [release](https://github.com/OpenKH/OpenKh/releases), download it and unpack in any desired folder (not the game folder directly).
@@ -33,7 +39,7 @@ OpenKH offers a lot of modding tools for legacy Kingdom Hearts games, but the on
 
 ## Mod Loaders { data-search-exclude }
 ### [LuaBackend](https://github.com/Sirius902/LuaBackend/) { data-search-exclude }
-LuaBackend offers to enable Kingdom Hearts with mods scripted in Lua. You may not need it.
+LuaBackend offers to enable [Kingdom Hearts](kingdom_hearts_hd_1.5_plus_2.5_remix.md) with mods scripted in Lua.
 
 ???+ note "Installation and Usage"
     - Go to the latest [release](https://github.com/Sirius902/LuaBackend/releases), download it and unpack in the game folder (may not be compatible with Panacea).
@@ -41,7 +47,7 @@ LuaBackend offers to enable Kingdom Hearts with mods scripted in Lua. You may no
 
 ## Save Editors { data-search-exclude }
 ### [Kingdom Save Editor](https://github.com/Xeeynamo/KingdomSaveEditor) { data-search-exclude }
-An easy-to-use savefile editor for Kingdom Hearts and several other games.
+An easy-to-use savefile editor for [Kingdom Hearts](kingdom_hearts_hd_1.5_plus_2.5_remix.md) and several other games.
 
 ???+ note "Usage"
     - Go to the latest [release](https://github.com/Xeeynamo/KingdomSaveEditor/releases), download it and unpack it in any desired folder.
