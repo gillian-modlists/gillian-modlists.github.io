@@ -14,32 +14,32 @@ Game has a limited amount of settings - you only set up the screen/window mode, 
     The game uses 4x Anisotropic by default without any way to toggle it. If you don't like that, you can increase it to 8x/16x via Nvidia Control Panel or AMD Adrenalin.
 
 ## Essentials { data-search-exclude }
-!!! info ""
-    ### [Kingdom Hearts Re:Fined](https://github.com/TopazTK/KH-ReFined) { data-search-exclude }
-    This mod aims to fix problems, crashes, and bugs that are present within the PC Ports of all legacy-class Kingdom Hearts games, aswell as introduce quality-of-life features to the games. ==An absolute must-have for the PC ports.==
+### [Kingdom Hearts Re:Fined](https://github.com/TopazTK/KH-ReFined) { data-search-exclude }
+This mod aims to fix problems, crashes, and bugs that are present within the PC Ports of all legacy-class Kingdom Hearts games, aswell as introduce quality-of-life features to the games. ==An absolute must-have for the PC ports.==
 
-    ???+ note "Installation"
-        === "v3.00"
-            For the outdated v3.00 release, follow these intructions:
+???+ note "Installation"
+    === "v3.00"
+        For the outdated v3.00 release, follow these intructions:
 
-            * Drag-and-Drop the downloaded [release](https://github.com/TopazTK/KH-ReFined/releases/tag/v3.00). 
-            * That's it. Enjoy.
-        === "v4.00"
-            For the still-in-development v4.00 release, follow these intructions:
+        * Drag-and-Drop the downloaded [release](https://github.com/TopazTK/KH-ReFined/releases/tag/v3.00). 
+        * That's it. Enjoy.
+    === "v4.00"
+        For the still-in-development v4.00 release, follow these intructions:
 
-            * Download the [release](https://github.com/TopazTK/KH-ReFined/releases/), drag-and-drop it to your folder.
-            * Set up [OpenKH](../tools/#openkh-mod-manager) if you haven't already.
-            * Install the `KH-ReFined/KH2-MAIN` repository via OpenKH.
-            * Install the addons and resource packs additionally via OpenKH if you need.
-            * Build the mods via OpenKH.
-            * Enjoy.
+        * Download the [release](https://github.com/TopazTK/KH-ReFined/releases/), drag-and-drop it to your folder.
+        * Set up [OpenKH](../tools/#openkh-mod-manager) if you haven't already.
+        * Install the `KH-ReFined/KH2-MAIN` repository via OpenKH.
+        * Install the addons and resource packs additionally via OpenKH if you need.
+        * Build the mods via OpenKH.
+        * Enjoy.
 
     [:simple-discord: Re:Fined Discord Server](https://discord.gg/kh-refined){ .md-button .md-button--primary }
 
 ## Mods { data-search-exclude }
-???+ info "Required tools"
-    - [OpenKH](../tools/#openkh-mod-manager) for most mods. You can use [KHPCPatchManager](https://github.com/AntonioDePau/KHPCPatchManager) instead for patching, but OpenKH will generally be better.
-    - [LuaBackend](../tools/#luabackend) for `.lua` mods.
+You may need these tools:
+
+- [OpenKH](../tools/#openkh-mod-manager) for most mods. You can use [KHPCPatchManager](https://github.com/AntonioDePau/KHPCPatchManager) instead for patching, but OpenKH will generally be better.
+- [LuaBackend](../tools/#luabackend) for `.lua` mods.
 === "Kingdom Hearts Final Mix"
     * [HD Textures](https://www.nexusmods.com/kingdomheartsfinalmix/mods/4)
     * [Critical Mix](https://www.nexusmods.com/kingdomheartsfinalmix/mods/93)

@@ -3,6 +3,7 @@ description: Gillian's mod and/or tools list for game.
 
 # Game
 ## Links { data-search-exclude }
+- [Store Page (store)](link)
 - [PCGamingWiki](link)
 
 Personal opinion on the state of the game
@@ -11,18 +12,14 @@ Personal opinion on the state of the game
 Notes on settings
 
 ## Essentials { data-search-exclude }
-### Essential 1 { data-search-exclude }
-Description
+!!! info ""
+    ### Essential 1 { data-search-exclude }
+    Description
+
+    ???+ note "Installation"
+        Instructions
 
 ## Mods { data-search-exclude }
 * Mod 1
-
-## Tools { data-search-exclude }
-### Tool 1 { data-search-exclude }
-Description
-???+ note "Installation"
-    - Step 1
-    - Step 2
-???+ tip "Usage"
-    - Step 1
-    - Step 2
+    * Notes for the mod, if needed
+    * :material-alert: Keep in mind
