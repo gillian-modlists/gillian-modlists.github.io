@@ -16,7 +16,9 @@ Game has a limited amount of settings - you only set up the screen/window mode, 
 ## Essentials { data-search-exclude }
 !!! info ""
     ### [Kingdom Hearts Re:Fined](https://github.com/TopazTK/KH-ReFined) { data-search-exclude }
-    This mod aims to fix problems, crashes, and bugs that are present within the PC Ports of all legacy-class Kingdom Hearts games, aswell as introduce quality-of-life features to the games. ==An absolute must-have for the PC ports.==
+    This mod aims to fix problems, crashes, and bugs that are present within the PC Ports of all legacy-class Kingdom Hearts games, aswell as introduce quality-of-life features to the games. ==An absolute must-have for the PC ports.== 
+    
+    [:simple-discord: Re:Fined Discord Server](https://discord.gg/kh-refined){ .md-button .md-button--primary }
 
 ???+ note "Installation"
     === "v3.00"
@@ -33,8 +35,6 @@ Game has a limited amount of settings - you only set up the screen/window mode, 
         * Install the addons and resource packs additionally via OpenKH if you need.
         * Build the mods via OpenKH.
         * Enjoy.
-
-[:simple-discord: Re:Fined Discord Server](https://discord.gg/kh-refined){ .md-button .md-button--primary }
 
 ## Mods { data-search-exclude }
 You may need these tools:
