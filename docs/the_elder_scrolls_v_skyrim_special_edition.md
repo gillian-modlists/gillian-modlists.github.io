@@ -2,7 +2,7 @@ title: The Elder Scrolls V: Skyrim Special Edition
 description: Gillian's mod and/or tools list for The Elder Scrolls V: Skyrim Special Edition.
 
 # The Elder Scrolls V: Skyrim Special Edition
-^Also known as: TES V^
+Also known as: TES V
 ## Links { data-search-exclude }
 - [Store Page (Steam)](https://store.steampowered.com/app/489830/)
 - [Store Page (GOG)](https://af.gog.com/game/the_elder_scrolls_v_skyrim_special_edition)

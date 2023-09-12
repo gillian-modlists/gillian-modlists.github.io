@@ -2,7 +2,7 @@ title: Kingdom Hearts HD 1.5 + 2.5 ReMIX
 description: Gillian's mod and/or tools list for Kingdom Hearts HD 1.5 + 2.5 ReMIX.
 
 # Kingdom Hearts HD 1.5 + 2.5 ReMIX
-^Also known as: KH, KH1, KH2, KHCOM, KHRECOM, KHBBS, Re:Chain of Memories, Birth by Sleep^
+Also known as: KH, KH1, KH2, KHCOM, KHRECOM, KHBBS, Re:Chain of Memories, Birth by Sleep
 ## Links { data-search-exclude }
 - [Store Page (Epic Games Store)](https://store.epicgames.com/en-US/p/kingdom-hearts-hd-1-5-2-5-remix)
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Kingdom_Hearts_HD_1.5_%2B_2.5_ReMIX)
