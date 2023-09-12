@@ -2,7 +2,7 @@ title: Grand Theft Auto IV
 description: Gillian's mod and/or tools list for Grand Theft Auto IV.
 
 # Grand Theft Auto IV
-Also known as: GTA IV, GTAIV, GTA 4, GTA4
+Also known as: GTAIV, GTA4, GTA 4
 ## Links { data-search-exclude }
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Grand_Theft_Auto_IV)
 
