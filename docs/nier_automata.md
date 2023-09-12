@@ -15,9 +15,6 @@ This game has a horrible Steam version. Even after Square pushed the "fix", it's
     
     ==Of course, the experience may differ for you, so if you already bought the Steam version - give the mods a shot first.==
 
-## Game Settings { data-search-exclude }
-Ran maxed settings. Nothing specific to point out.
-
 ## Essentials { data-search-exclude }
 !!! info ""
     ### [NieR Automata Mod Helper](https://www.nexusmods.com/nierautomata/mods/140) { data-search-exclude }

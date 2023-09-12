@@ -9,9 +9,6 @@ description: Gillian's mod and/or tools list for NieR Replicant ver.1.2247448713
 
 This is one of the fairly pleasant PC releases - in the technical state of things. I had a lot of personal gripes with the games of course, but the technical state was fairly good.
 
-## Game Settings { data-search-exclude }
-Ran maxed settings. Nothing specific to point out.
-
 ## Essentials { data-search-exclude }
 !!! info ""
     ### [Radical Replicant](https://wiki.special-k.info/SpecialK/Custom/Replicant) { data-search-exclude }
