@@ -18,7 +18,7 @@ Game has a limited amount of settings - you only set up the screen/window mode, 
     ### [Kingdom Hearts Re:Fined](https://github.com/TopazTK/KH-ReFined) { data-search-exclude }
     This mod aims to fix problems, crashes, and bugs that are present within the PC Ports of all legacy-class Kingdom Hearts games, aswell as introduce quality-of-life features to the games. ==An absolute must-have for the PC ports.== 
 
-    ### Installation
+    ### Installation { data-search-exclude }
     === "v3.00"
         For the outdated v3.00 release, follow these intructions:
 
@@ -36,12 +36,11 @@ Game has a limited amount of settings - you only set up the screen/window mode, 
 
     [:simple-discord: Re:Fined Discord Server](https://discord.gg/kh-refined){ .md-button .md-button--primary } 
 
-## Mods { data-search-exclude }
-### Required tools
-You may need these tools:
-
+## Required tools { data-search-exclude }
 - [OpenKH](../tools/#openkh-mod-manager) for most mods. You can use [KHPCPatchManager](https://github.com/AntonioDePau/KHPCPatchManager) instead for patching, but OpenKH will generally be better.
 - [LuaBackend](../tools/#luabackend) for `.lua` mods.
+
+## Mods { data-search-exclude }
 === "Kingdom Hearts Final Mix"
     * [HD Textures](https://www.nexusmods.com/kingdomheartsfinalmix/mods/4)
     * [Critical Mix](https://www.nexusmods.com/kingdomheartsfinalmix/mods/93)
