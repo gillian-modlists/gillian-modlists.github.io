@@ -8,12 +8,12 @@ description: Gillian's mod and/or tools list for NieR: Automata.
 - [Store Page (Steam)](https://store.steampowered.com/app/524220/)
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Nier:_Automata)
 
-This game has a horrible Steam version. Even after Square pushed the "fix", it's still horribly broken and hardly playable, as they only brought fixes. Of course, the chance of you having issues is also random, you might have a PERFECTLY fine time playing the game on Steam. 
+This game has a horrible Steam version. Even after Square pushed the "fix", it's still hardly playable, as they only brought the graphics options. Of course, the chance of you having issues is also random, you might have a PERFECTLY fine time playing the game on Steam. 
 
 !!! warning "Important"
-    Now, why do I list the Microsoft Store page? You might want the Microsoft Store version unironically if you did not buy the game yet. It's moddable and has much better performance in my experience. I only experienced hiccups when I installed HD Textures, otherwise my experience was flawless. I did not achieve that on the Steam version even once. The stutter was horrible. Of course, the experience may differ for you - but I need to point this out.
+    Now, why do I list the Microsoft Store page? You might want the Microsoft Store version unironically if you did not buy the game yet. It's moddable and has much better performance in my experience. I only experienced hiccups when I installed HD Textures, otherwise my experience was flawless. I did not achieve that on the Steam version even once. The stutter was horrible. 
     
-    And, please, don't take Digital Foundry's review seriously - they, as reputable as they are, only performed the test on a powerful machine that didn't have issues on the Steam version in the first place. Hardly a point of reference compared to the hundreds/thousands that experienced a much better game playing it on Gamepass.
+    ==Of course, the experience may differ for you, so if you already bought the Steam version - give the mods a shot first.==
 
 ## Game Settings { data-search-exclude }
 Ran maxed settings. Nothing specific to point out.
