@@ -6,6 +6,7 @@ description: Gillian's mod and/or tools list for NieR Replicant ver.1.2247448713
 ## Links { data-search-exclude }
 - [Store Page (Steam)](https://store.steampowered.com/app/1113560/)
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/NieR_Replicant)
+
 This is one of the fairly pleasant PC releases - in the technical state of things. I had a lot of personal gripes with the games of course, but the technical state was fairly good.
 
 ## Game Settings { data-search-exclude }

@@ -7,6 +7,7 @@ description: Gillian's mod and/or tools list for NieR: Automata.
 - [Store Page (Microsoft Store)](https://www.xbox.com/en-US/games/store/nierautomata-become-as-gods-edition/BPPZVT8BZ15N)
 - [Store Page (Steam)](https://store.steampowered.com/app/524220/)
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Nier:_Automata)
+
 This game has a horrible Steam version. Even after Square pushed the "fix", it's still horribly broken and hardly playable, as they only brought fixes. Of course, the chance of you having issues is also random, you might have a PERFECTLY fine time playing the game on Steam. 
 
 !!! warning "Important"
