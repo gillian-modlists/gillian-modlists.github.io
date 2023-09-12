@@ -19,7 +19,11 @@ Use [Bethini Pie](../tools/#bethini) for configuration - it has nice and optimiz
 
 ## Essentials { data-search-exclude }
 !!! warning "About the 'Anniversary Edition' and 'Special Edition'"
-    You may have noticed mods point them out as different things, and you can assume that the thing sold on Steam/GOG is reflecting that aswell. It does not. The "Anniversary Edition" is the **latest** build of the game, you get it independently of which edition you bought. The "Special Edition" is the **old** build of the game that is no longer supplied officially. You can [downgrade](https://www.nexusmods.com/skyrimspecialedition/mods/57618) it if some mod requires specifically the old Special Edition build. Otherwise, stick to the "Anniversary Edition" versions of the mods.
+    You may have noticed mods point them out as different things, and you can assume that the thing sold on Steam/GOG is reflecting that aswell. It does not. 
+    
+    The "Anniversary Edition" is the **latest** build of the game, you get it independently of which edition you bought. Also called as the `1.6` version of the game.
+    
+    The "Special Edition" is the **old** build of the game that is no longer supplied officially. You can [downgrade](https://www.nexusmods.com/skyrimspecialedition/mods/57618) it if some mod requires specifically the old Special Edition build. Otherwise, stick to the "Anniversary Edition" versions of the mods. Also called as the `1.5` version of the game.
 
 !!! info ""
     ### [Skyrim Script Extender (SKSE)](https://skse.silverlock.org/) { data-search-exclude }
@@ -52,9 +56,11 @@ Use [Bethini Pie](../tools/#bethini) for configuration - it has nice and optimiz
     ### [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230) { data-search-exclude }
     Fixes a couple of engine-related bugs that USSEP can't address.
 
+!!! info ""
     ### [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) { data-search-exclude }
     Solves most display-related, physics-relates, fps-related issues.
 
+!!! info ""
     ### [Keyboard Shortcuts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/3620) { data-search-exclude }
     Fixes the keyboard shortcuts, such as ALT+F4, that the game doesn't work with. Somehow.
 
@@ -62,8 +68,12 @@ Use [Bethini Pie](../tools/#bethini) for configuration - it has nice and optimiz
 * [Skyrim Upscaler](https://www.nexusmods.com/skyrimspecialedition/mods/80343)
     * I can't bear the usual TAA, so I threw in FSR2 for myself. You can use it for DLAA if you have a supported Nvidia GPU.
 * [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
-  * The mod doesn't mention the 1.6 support, but it works just fine.
-  * Several fixes recommended to use alongside: [Flashing Savegames Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20406), [Fix Note icon](https://www.nexusmods.com/skyrimspecialedition/mods/32561), [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106), [Survival Mode Integration](https://www.nexusmods.com/skyrimspecialedition/mods/17729).
+    * The mod doesn't mention the `1.6` support, but it works just fine.
+    * Several fixes recommended to use alongside: 
+        * [Flashing Savegames Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20406)
+        * [Fix Note icon](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
+        * [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106)
+        * [Survival Mode Integration](https://www.nexusmods.com/skyrimspecialedition/mods/17729).
 * [Clean Menu](https://www.nexusmods.com/skyrimspecialedition/mods/3223)
 * [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659)
 * [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808)
