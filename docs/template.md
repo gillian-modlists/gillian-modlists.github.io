@@ -15,11 +15,10 @@ Notes on settings
 !!! info ""
     ### Essential 1 { data-search-exclude }
     Description
-
-    ???+ note "Installation"
-        Instructions
+???+ note "Installation"
+    Instructions
 
 ## Mods { data-search-exclude }
-* Mod 1
+* [Mod 1](link)
     * Notes for the mod, if needed
     * :material-alert: Keep in mind
