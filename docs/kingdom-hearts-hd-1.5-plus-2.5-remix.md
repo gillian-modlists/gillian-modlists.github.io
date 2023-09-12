@@ -36,6 +36,7 @@ Game has a limited amount of settings - you only set up the screen/window mode, 
         * Enjoy.
 
 ## Mods { data-search-exclude }
+### Required tools
 You may need these tools:
 
 - [OpenKH](../tools/#openkh-mod-manager) for most mods. You can use [KHPCPatchManager](https://github.com/AntonioDePau/KHPCPatchManager) instead for patching, but OpenKH will generally be better.
