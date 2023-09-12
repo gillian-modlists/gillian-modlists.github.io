@@ -10,7 +10,7 @@ description: Gillian's mod and/or tools list for The Elder Scrolls V: Skyrim Spe
 The notoriously broken Bethesda release(tm). Thankfully, mods can fix this mess once again. Bless the PC modding community.
 
 ## Game Settings { data-search-exclude }
-Use [Bethini Pie](../tools/#bethini) for configuration - it has nice and optimized presets aswell as more options to configure your game.
+Use [Bethini Pie](../tools/#bethini-pie) for configuration - it has nice and optimized presets aswell as more options to configure your game.
 
 ## Tools { data-search-exclude }
 - A mod manager. I use [Mod Organizer 2](../tools/#mod-organizer-2). You don't completely need one, though - you can stick with just [LOOT](https://loot.github.io/).
