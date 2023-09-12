@@ -36,7 +36,7 @@ Game has a limited amount of settings - you only set up the screen/window mode, 
 
     [:simple-discord: Re:Fined Discord Server](https://discord.gg/kh-refined){ .md-button .md-button--primary } 
 
-## Required tools { data-search-exclude }
+## Tools { data-search-exclude }
 - [OpenKH](../tools/#openkh-mod-manager) for most mods. You can use [KHPCPatchManager](https://github.com/AntonioDePau/KHPCPatchManager) instead for patching, but OpenKH will generally be better.
 - [LuaBackend](../tools/#luabackend) for `.lua` mods.
 
