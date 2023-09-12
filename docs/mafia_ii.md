@@ -2,7 +2,7 @@ title: Mafia II
 description: Gillian's mod and/or tools list for Mafia II.
 
 # Mafia II
-Also known as: Mafia 2
+Also known as: Mafia 2, Mafia DE, Definitive Edition
 ## Links { data-search-exclude }
 - [Store Page (Steam)](https://store.steampowered.com/app/50130/)
 - [Store Page (GOG)](https://af.gog.com/game/mafia_ii_definitive_edition)
