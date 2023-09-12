@@ -8,14 +8,14 @@ Also known as: Mafia 3, Mafia 1, Mafia DE
     - [Store Page (Steam)](https://store.steampowered.com/app/360430/)
     - [Store Page (GOG)](https://af.gog.com/game/mafia_iii_definitive_edition)
     - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Mafia_III)
+
+    It's a fairly decent game on the technical state of things. A bunch of issues from time to time, but nothing major from my experience. Oh, and yeah, the Definitive Edition thing is the same game, nothing changed LOL.
 === "Mafia: Definitive Edition"
     - [Store Page (Steam)](https://store.steampowered.com/app/1030840/)
     - [Store Page (GOG)](https://af.gog.com/game/mafia_definitive_edition)
     - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Mafia:_Definitive_Edition)
 
-It's a fairly decent game on the technical state of things. A bunch of issues from time to time, but nothing major from my experience. Oh, and yeah, the Definitive Edition thing is the same game, nothing changed LOL.
-
-I also included Mafia DE onto this page because making a separate page for it just to mention one mod is stupid.
+    I also included Mafia DE onto this page because making a separate page for it just to mention one mod is stupid.
 
 ## Mods { data-search-exclude }
 === "Mafia III"
