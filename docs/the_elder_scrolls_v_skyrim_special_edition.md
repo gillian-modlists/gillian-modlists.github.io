@@ -15,7 +15,6 @@ Use [Bethini Pie](../tools/#bethini-pie) for configuration - it has nice and opt
 ## Tools { data-search-exclude }
 - A mod manager. I use [Mod Organizer 2](../tools/#mod-organizer-2). You don't completely need one, though - you can stick with just [LOOT](https://loot.github.io/).
     * I do not provide installation instructions for most mods for one simple reason - you simply just press the "Install with mod manager" for most of them.
-    * :material-alert: Remember to `Sort` the mods after installing them. Mod Organizer 2 uses LOOT to do it.
 
 ## Essentials { data-search-exclude }
 !!! warning "About the 'Anniversary Edition' and 'Special Edition'"
@@ -24,6 +23,9 @@ Use [Bethini Pie](../tools/#bethini-pie) for configuration - it has nice and opt
     The "Anniversary Edition" is the **latest** build of the game, you get it independently of which edition you bought. Also called as the `1.6` version of the game.
     
     The "Special Edition" is the **old** build of the game that is no longer supplied officially. You can [downgrade](https://www.nexusmods.com/skyrimspecialedition/mods/57618) it if some mod requires specifically the old Special Edition build. Otherwise, stick to the "Anniversary Edition" versions of the mods. Also called as the `1.5` version of the game.
+
+!!! warning ""
+    Remember to `Sort` the mods after installing them. Mod Organizer 2 uses LOOT to do it.
 
 !!! info ""
     ### [Skyrim Script Extender (SKSE)](https://skse.silverlock.org/) { data-search-exclude }
@@ -73,7 +75,7 @@ Use [Bethini Pie](../tools/#bethini-pie) for configuration - it has nice and opt
         * [Flashing Savegames Fix](https://www.nexusmods.com/skyrimspecialedition/mods/20406)
         * [Fix Note icon](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
         * [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106)
-        * [Survival Mode Integration](https://www.nexusmods.com/skyrimspecialedition/mods/17729).
+        * [Survival Mode Integration](https://www.nexusmods.com/skyrimspecialedition/mods/17729)
 * [Clean Menu](https://www.nexusmods.com/skyrimspecialedition/mods/3223)
 * [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659)
 * [Footprints](https://www.nexusmods.com/skyrimspecialedition/mods/3808)
