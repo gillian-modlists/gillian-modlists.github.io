@@ -4,9 +4,24 @@ description: Gillian's tools list and instructions to use them
 # Tools { data-search-exclude }
 This page lists all the tools separately away from my modlists. The reason for that is due to games sharing tools fairly often. However, don't use this page separately - other games link to the required sections already.
 
+## General-purpose { data-search-exclude }
+### [Bethini Pie](https://www.nexusmods.com/site/mods/631) { data-search-exclude }
+Universal, easy-to-use and highly flexible configuration tool for Bethesda games.
+
+???+ note "Installation"
+    - Download the [tool](https://www.nexusmods.com/site/mods/631?tab=files) and extract it to any desired folder.
+    - If using [Mod Organizer 2](#mod-organizer-2), add the tool as an executable.
+
 ## Mod Managers { data-search-exclude }
+### [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) { data-search-exclude }
+Mod Organizer 2 is a feature rich mod manager for Bethesda games that keeps the mods away from the install folder and keeps it clean, aswell as providing environment to download mods from Nexus directly, sort the mods "correctly" and many other features.
+
+???+ note "Installation and Usage"
+    - Download the [installer](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files), launch it and install as desired.
+    - After the first launch, you get a usage tutorial. I really don't need to explain a lot here.
+
 ### [OpenKH Mod Manager](https://github.com/OpenKH/OpenKh/) { data-search-exclude }
-OpenKH offers a lot of modding tools for Kingdom Hearts, but the one you'd mainly want to use as a regular user is the Mod Manager, which allows to patch a good variety of mods aswell as set up their priority. Also has a modloader(Panacea) which reduces build time.
+OpenKH offers a lot of modding tools for legacy Kingdom Hearts games, but the one you'd mainly want to use as a regular user is the Mod Manager, which allows to patch a good variety of mods aswell as set up their priority. Also has a modloader(Panacea) which reduces build time.
 
 ???+ note "Installation"
     - Go to the latest [release](https://github.com/OpenKH/OpenKh/releases), download it and unpack in any desired folder (not the game folder directly).
@@ -14,6 +29,7 @@ OpenKH offers a lot of modding tools for Kingdom Hearts, but the one you'd mainl
 ???+ tip "Usage"
     - To install mods, click `Mods` -> `Install a new mod...` (or press the plus to the right of the list) and from there either pick a downloaded mod or leave the name for a repository on GitHub.
     - Change priority as desired.
+
 
 ## Mod Loaders { data-search-exclude }
 ### [LuaBackend](https://github.com/Sirius902/LuaBackend/) { data-search-exclude }

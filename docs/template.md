@@ -15,8 +15,11 @@ Notes on settings
 !!! info ""
     ### Essential 1 { data-search-exclude }
     Description
-???+ note "Installation"
+    ### Installation { data-search-exclude }
     Instructions
+
+## Tools { data-search-exclude }
+Required tools.
 
 ## Mods { data-search-exclude }
 * [Mod 1](link)
